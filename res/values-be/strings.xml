@@ -279,7 +279,6 @@
     <string name="preview_version_title">Версія</string>
     <string name="preview_country_title">Краіна</string>
     <string name="preview_carrier_title">Аператар</string>
-    <string name="stats_collection_title">Збор статыстыкі</string>
     <string name="accelerometer_title">Аўтапаварот экрана</string>
     <string name="display_rotation_enabled">Аўтапаварот уключаны</string>
     <string name="display_rotation_disabled">Аўтапаварот адключаны</string>
