@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     ZeroS strings, kept in their own file so the fork's changes stay apart from
+     LineageOS's.
+
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- Quick settings tile that switches ad and tracker blocking [CHAR LIMIT=20] -->
+    <string name="zeros_adblock_tile_label">Ad blocking</string>
+    <string name="zeros_adblock_on">On</string>
+    <string name="zeros_adblock_off">Off</string>
+    <string name="zeros_adblock_on_after_restart">On after restart</string>
+    <string name="zeros_adblock_restart_title">Restart to turn on ad blocking?</string>
+    <string name="zeros_adblock_restart_message">The phone needs to restart before it blocks ads and trackers again.</string>
+    <string name="zeros_adblock_restart_now">Restart now</string>
+    <string name="zeros_adblock_restart_later">Later</string>
+</resources>
